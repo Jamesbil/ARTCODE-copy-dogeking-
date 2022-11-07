@@ -1,8 +1,7 @@
 # ARTCODE-copy-dogeking-
-solidity
-复刻狗王合约。
-this solidity for heco.
+clone dogeking solidity
 
+this solidity for heco.
 
 MDEX SwapRount: 0xED7d5F38C79115ca12fe6C0041abb22F0A06C300
 
